@@ -1,1 +1,2 @@
 Bus schedule --- one bus every hour
+one bus every day
